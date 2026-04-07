@@ -57,7 +57,7 @@ Dashboard obsahuje tři strany a následující vizualizace:
 
 ## ⚠️ Omezení
 
-Počet spádových adres představuje pouze odhad zatížení, protože ne každá adresa odpovídá domácnosti s dětmi, a často se může jednat o bytové/panelové domy. Některá data byla neúplná nebo chyběla.
+Počet spádových adres představuje pouze hypotetický odhad zatížení. Je zřejmé, že ne každá adresa odpovídá domácnosti s dětmi, a často se může jednat o bytové/panelové domy. Některá data byla neúplná nebo chyběla.
 
 ---
 
